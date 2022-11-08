@@ -1,0 +1,18 @@
+
+
+.personal {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.personal-title {
+    grid-column: 1/-1;
+}
+
+textarea {
+    grid-column: 1/-1;
+    height: 96px;
+}
