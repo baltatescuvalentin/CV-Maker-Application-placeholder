@@ -1,1 +1,0 @@
-Placeholder for https://github.com/baltatescuvalentin/CV-Maker-Application .
