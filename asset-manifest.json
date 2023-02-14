@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CV-Maker-Application-placeholder/static/css/main.d801b871.css",
+    "main.js": "/CV-Maker-Application-placeholder/static/js/main.02825ba3.js",
+    "static/js/703.fca10c19.chunk.js": "/CV-Maker-Application-placeholder/static/js/703.fca10c19.chunk.js",
+    "static/js/635.c990969b.chunk.js": "/CV-Maker-Application-placeholder/static/js/635.c990969b.chunk.js",
+    "static/js/787.33ecb5dc.chunk.js": "/CV-Maker-Application-placeholder/static/js/787.33ecb5dc.chunk.js",
+    "index.html": "/CV-Maker-Application-placeholder/index.html",
+    "main.d801b871.css.map": "/CV-Maker-Application-placeholder/static/css/main.d801b871.css.map",
+    "main.02825ba3.js.map": "/CV-Maker-Application-placeholder/static/js/main.02825ba3.js.map",
+    "703.fca10c19.chunk.js.map": "/CV-Maker-Application-placeholder/static/js/703.fca10c19.chunk.js.map",
+    "635.c990969b.chunk.js.map": "/CV-Maker-Application-placeholder/static/js/635.c990969b.chunk.js.map",
+    "787.33ecb5dc.chunk.js.map": "/CV-Maker-Application-placeholder/static/js/787.33ecb5dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d801b871.css",
+    "static/js/main.02825ba3.js"
+  ]
+}
