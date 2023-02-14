@@ -142,7 +142,7 @@ function Main() {
 
     function handleSaveToEducation(id, education) {
         const educationMap = data.education.map(ed => {
-            if(education.id === id) {
+            if(ed.id === id) {
                 return {
                     ...ed,
                     name: education.name,
